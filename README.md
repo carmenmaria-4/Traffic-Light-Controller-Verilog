@@ -37,3 +37,5 @@ Outputs are logged to the console with timestamps to track signal changes in rea
 * [ ] Hardware validation on an FPGA development board (e.g., Basys 3 or Nexys A7).
 * [ ] Adding a pedestrian crossing button input.
 * [ ] Implementing variable timing for different light phases.
+
+![Schematic](schematic_traffic_light.png)
